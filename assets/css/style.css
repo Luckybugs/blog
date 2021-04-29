@@ -425,7 +425,7 @@ pre code { font-size: 15px !important; }
 
 /*-----------------------------------*/
 /*----- ADD YOUR STYLES BELOW -------*/
-.site-title { font-size: 3rem; font-style: italic; }
+.site-title { font-size: 3rem; font-family: 'Inter', sans-serif; font-weight: 800; }
 
 .language-python + .language-plaintext { border-left: 1px solid grey; margin-left: 1rem !important; }
 
