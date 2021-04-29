@@ -21,7 +21,11 @@
     font-weight: 800;
 }
 
-$link-base-color : rgb(25, 211, 236);
+.post-link {
+    color: rgb(211, 82, 193);
+}
+
+// $link-base-color : rgb(25, 211, 236);
 
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
 @import "minima/fastpages-dracula-highlight"; 
