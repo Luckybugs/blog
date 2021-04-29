@@ -16,10 +16,12 @@
     text-decoration: none;
   }
 .post-title {
+    font-family: 'Inter', sans-serif;
     color: rgb(88, 88, 88);
     font-weight: 800;
 }
-$base-font-family: 'Inter', sans-serif;
+
+$link-base-color : rgb(25, 211, 236);
 
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
 @import "minima/fastpages-dracula-highlight"; 
