@@ -429,6 +429,8 @@ pre code { font-size: 15px !important; }
 
 .site-title:link { text-decoration: none; }
 
+.post-title { color: #585858; font-weight: 800; }
+
 .language-python + .language-plaintext { border-left: 1px solid grey; margin-left: 1rem !important; }
 
 [class^="language-"]:not(.language-plaintext) pre, [class^="language-"]:not(.language-plaintext) code { background-color: #323443 !important; color: #f8f8f2; }
