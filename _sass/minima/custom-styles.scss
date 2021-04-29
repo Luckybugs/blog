@@ -15,7 +15,10 @@
 .site-title:link {
     text-decoration: none;
   }
-
+.post-title {
+    color: rgb(88, 88, 88);
+    font-weight: 800;
+}
 $base-font-family: 'Inter', sans-serif;
 
 // If you want to turn off dark background for syntax highlighting, comment or delete the below line.
